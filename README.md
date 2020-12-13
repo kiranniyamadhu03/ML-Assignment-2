@@ -16,7 +16,7 @@ This dataset includes descriptions of hypothetical samples corresponding to 23 s
 
 A brief introduction of Random Forest Classification algorithm with an image.
 
----
+.
 
 ### About the dataset
 A small insight into the dataset. Like what do we plan to do (classify poisonous from non poisonous). What are the different fields. Check the kaggle website.
